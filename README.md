@@ -1,4 +1,4 @@
-<h3 align="left"> Project-Euler-JavaScript</h3>
+<h1 align="left"> Project-Euler-JavaScript</h1>
 
 <details open="open"><summary>Table of Contents</summary>
 
