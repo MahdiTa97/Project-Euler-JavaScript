@@ -1,4 +1,11 @@
-# Project-Euler-JavaScript
+<h3 align="left"> Project-Euler-JavaScript</h3>
+
+<details open="open"><summary>Table of Contents</summary>
+
+- [Solved Problems](#solved-problems)
+  - [1- Multiples of 3 or 5](#1--multiples-of-3-or-5)
+
+</details>
 
 # Solved Problems
 
